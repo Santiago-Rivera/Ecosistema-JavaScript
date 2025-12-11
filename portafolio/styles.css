@@ -803,7 +803,7 @@ body {
 
     .hero {
         padding: 5rem 1.5rem 2rem;
-        min-height: auto;
+        min-height: 0;
     }
 
     .hero-image img {
